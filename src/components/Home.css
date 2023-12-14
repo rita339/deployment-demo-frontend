@@ -1,0 +1,8 @@
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  & li {
+    width: 300px;
+  }
+}

@@ -1,0 +1,5 @@
+.add-form {
+  & ul {
+    list-style-type: none;
+  }
+}
